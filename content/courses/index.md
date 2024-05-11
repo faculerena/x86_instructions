@@ -1,5 +1,0 @@
----
-tags:
-  - "#courses"
-title: Courses
----
