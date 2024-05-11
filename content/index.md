@@ -1,8 +1,3 @@
----
-title: x86 Instruction Set Reference
-tags: []
----
-
 Thanks [felixcloutier.com/x86](https://felixcloutier.com/x86). I took everything for his web and converted to markdown with another dumb script. Same disclaimer:
 
 
