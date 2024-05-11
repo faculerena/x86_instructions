@@ -1,4 +1,5 @@
-#CMPXCHG8B/CMPXCHG16B
+# CMPXCHG8B/CMPXCHG16B
+
 **Compare and Exchange Bytes**
 
 | Opcode/Instruction               | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                                                                                        |

@@ -1,4 +1,5 @@
-#VFMADDSUB132PD/VFMADDSUB213PD/VFMADDSUB231PD
+# VFMADDSUB132PD/VFMADDSUB213PD/VFMADDSUB231PD
+
 **Fused Multiply**
 
 | Opcode/Instruction                                                                 | Op/En | 64/32 Bit Mode Support | CPUID Feature Flag | Description                                                                                                                                                           |

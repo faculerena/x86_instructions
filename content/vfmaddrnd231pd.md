@@ -1,4 +1,5 @@
-#VFMADDRND231PD
+# VFMADDRND231PD
+
 **Fused Multiply**
 
 | Opcode/ Mode CPUID Description Instruction Support Feature Flag VEX.DDS.128.66.0F3A.W1 B8 /r /ib V/V FMA Multiply packed double-precision floating-point values from xmm1 VFMADDRND231PD xmm0, and xmm2/mem, add to xmm0 and xmm1, xmm2/m128, imm8 put result in xmm0. VEX.DDS.256.66.0F3A.W1 B8 /r /ib V/V FMA Multiply packed double-precision floating-point values from ymm1 VFMADDRND231PD ymm0, and ymm2/mem, add to ymm0 and ymm1, ymm2/m256, imm8 put result in ymm0. |

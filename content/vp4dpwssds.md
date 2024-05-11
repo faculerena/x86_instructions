@@ -1,4 +1,5 @@
-#VP4DPWSSDS
+# VP4DPWSSDS
+
 **Dot Product of Signed Words With Dword Accumulation and Saturation**
 
 | Opcode/Instruction                                             | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                                                                             |
