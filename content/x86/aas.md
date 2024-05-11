@@ -1,5 +1,4 @@
-#AAS
-**ASCII Adjust AL After Subtraction**
+# AAS**ASCII Adjust AL After Subtraction**
 
 | Opcode | Instruction | Op/En | 64-bit Mode | Compat/Leg Mode | Description                        |
 | ------ | ----------- | ----- | ----------- | --------------- | ---------------------------------- |

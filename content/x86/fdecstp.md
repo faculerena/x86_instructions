@@ -1,5 +1,4 @@
-#FDECSTP
-**Decrement Stack**
+# FDECSTP**Decrement Stack**
 
 | Opcode |     | Mode | Leg Mode | Description                             |
 | ------ | --- | ---- | -------- | --------------------------------------- |

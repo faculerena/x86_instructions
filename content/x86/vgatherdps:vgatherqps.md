@@ -1,5 +1,4 @@
-#VGATHERDPS/VGATHERQPS
-**Gather Packed Single Precision Floating**
+# VGATHERDPS/VGATHERQPS**Gather Packed Single Precision Floating**
 
 | Opcode/Instruction                                    | Op/En | 64/32 Bit Mode Support | CPUID Feature Flag | Description                                                                                                                                                                                    |
 | ----------------------------------------------------- | ----- | ---------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

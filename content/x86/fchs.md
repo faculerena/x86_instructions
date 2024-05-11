@@ -1,5 +1,4 @@
-#FCHS
-**Change Sign**
+# FCHS**Change Sign**
 
 | Opcode |     | Mode | Leg Mode | Description                |
 | ------ | --- | ---- | -------- | -------------------------- |

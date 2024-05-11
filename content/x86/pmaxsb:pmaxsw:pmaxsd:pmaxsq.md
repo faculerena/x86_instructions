@@ -1,5 +1,4 @@
-#PMAXSB/PMAXSW/PMAXSD/PMAXSQ
-**Maximum of Packed Signed Integers**
+# PMAXSB/PMAXSW/PMAXSD/PMAXSQ**Maximum of Packed Signed Integers**
 
 | Opcode/Instruction                                                      | Op / En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                                    |
 | ----------------------------------------------------------------------- | ------- | ---------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------ |

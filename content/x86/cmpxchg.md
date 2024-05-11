@@ -1,5 +1,4 @@
-#CMPXCHG
-**Compare and Exchange**
+# CMPXCHG**Compare and Exchange**
 
 | Opcode/Instruction                 | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                                                                                       |
 | ---------------------------------- | ----- | ----------- | --------------- | ----------------------------------------------------------------------------------------------------------------- |

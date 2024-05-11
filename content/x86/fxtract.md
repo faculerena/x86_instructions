@@ -1,5 +1,4 @@
-#FXTRACT
-**Extract Exponent and Significand**
+# FXTRACT**Extract Exponent and Significand**
 
 | Opcode/Instruction | 64-Bit Mode | Compat/Leg Mode | Description                                                                                                                       |
 | ------------------ | ----------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------- |

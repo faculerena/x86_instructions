@@ -1,5 +1,4 @@
-#KORTESTW/KORTESTB/KORTESTQ/KORTESTD
-**OR Masks and Set Flags**
+# KORTESTW/KORTESTB/KORTESTQ/KORTESTD**OR Masks and Set Flags**
 
 | Opcode/Instruction                    | Op/E n | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                          |
 | ------------------------------------- | ------ | ---------------------- | ------------------ | -------------------------------------------------------------------- |

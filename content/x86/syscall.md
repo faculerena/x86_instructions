@@ -1,5 +1,4 @@
-#SYSCALL
-**Fast System Call**
+# SYSCALL**Fast System Call**
 
 | Opcode | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                       |
 | ------ | ----------- | ----- | ----------- | --------------- | ------------------------------------------------- |

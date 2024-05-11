@@ -1,5 +1,4 @@
-#STC
-**Set Carry Flag**
+# STC**Set Carry Flag**
 
 | Opcode | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description  |
 | ------ | ----------- | ----- | ----------- | --------------- | ------------ |

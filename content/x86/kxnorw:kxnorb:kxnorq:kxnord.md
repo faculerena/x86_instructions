@@ -1,5 +1,4 @@
-#KXNORW/KXNORB/KXNORQ/KXNORD
-**Bitwise Logical XNOR Masks**
+# KXNORW/KXNORB/KXNORQ/KXNORD**Bitwise Logical XNOR Masks**
 
 | Opcode/Instruction                      | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                 |
 | --------------------------------------- | ----- | ---------------------- | ------------------ | ----------------------------------------------------------- |

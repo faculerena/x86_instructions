@@ -1,5 +1,4 @@
-#AND
-**Logical AND**
+# AND**Logical AND**
 
 | Opcode           | Instruction      | Op/En | 64-bit Mode | Compat/Leg Mode | Description                               |
 | ---------------- | ---------------- | ----- | ----------- | --------------- | ----------------------------------------- |

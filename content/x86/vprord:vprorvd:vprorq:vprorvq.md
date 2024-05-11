@@ -1,5 +1,4 @@
-#VPRORD/VPRORVD/VPRORQ/VPRORVQ
-**Bit Rotate Right**
+# VPRORD/VPRORVD/VPRORQ/VPRORVQ**Bit Rotate Right**
 
 | Opcode/Instruction                                                      | Op / En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                                   |
 | ----------------------------------------------------------------------- | ------- | ---------------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |

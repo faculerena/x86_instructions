@@ -1,5 +1,4 @@
-#CLTS
-**Clear Task**
+# CLTS**Clear Task**
 
 | Opcode | Instruction | Op/En | 64-bit Mode | Compat/Leg Mode | Description            |
 | ------ | ----------- | ----- | ----------- | --------------- | ---------------------- |

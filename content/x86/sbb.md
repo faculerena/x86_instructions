@@ -1,5 +1,4 @@
-#SBB
-**Integer Subtraction With Borrow**
+# SBB**Integer Subtraction With Borrow**
 
 | Opcode           | Instruction      | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                                     |
 | ---------------- | ---------------- | ----- | ----------- | --------------- | --------------------------------------------------------------- |

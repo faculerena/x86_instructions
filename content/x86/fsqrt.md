@@ -1,5 +1,4 @@
-#FSQRT
-**Square Root**
+# FSQRT**Square Root**
 
 | Opcode |     | Mode | Leg Mode | Description                                                   |
 | ------ | --- | ---- | -------- | ------------------------------------------------------------- |

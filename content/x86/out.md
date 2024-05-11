@@ -1,5 +1,4 @@
-#OUT
-**Output to Port**
+# OUT**Output to Port**
 
 **Opcode1**
 

@@ -1,5 +1,4 @@
-#BOUND
-**Check Array Index Against Bounds**
+# BOUND**Check Array Index Against Bounds**
 
 | Opcode | Instruction       | Op/En | 64-bit Mode | Compat/Leg Mode | Description                                                      |
 | ------ | ----------------- | ----- | ----------- | --------------- | ---------------------------------------------------------------- |

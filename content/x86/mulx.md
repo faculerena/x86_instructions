@@ -1,5 +1,4 @@
-#MULX
-**Unsigned Multiply Without Affecting Flags**
+# MULX**Unsigned Multiply Without Affecting Flags**
 
 | Opcode/Instruction                             | Op/ En | 64/32-bit Mode | CPUID Feature Flag | Description                                                             |
 | ---------------------------------------------- | ------ | -------------- | ------------------ | ----------------------------------------------------------------------- |

@@ -1,5 +1,4 @@
-#FBSTP
-**Store BCD Integer and Pop**
+# FBSTP**Store BCD Integer and Pop**
 
 | Opcode |     | Mode | Leg Mode | Description                          |
 | ------ | --- | ---- | -------- | ------------------------------------ |

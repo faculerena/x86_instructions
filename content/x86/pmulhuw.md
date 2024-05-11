@@ -1,5 +1,4 @@
-#PMULHUW
-**Multiply Packed Unsigned Integers and Store High Result**
+# PMULHUW**Multiply Packed Unsigned Integers and Store High Result**
 
 | Opcode/Instruction                                              | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                                             |
 | --------------------------------------------------------------- | ----- | ---------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |

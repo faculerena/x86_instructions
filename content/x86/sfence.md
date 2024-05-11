@@ -1,5 +1,4 @@
-#SFENCE
-**Store Fence**
+# SFENCE**Store Fence**
 
 | Opcode\*    | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                  |
 | ----------- | ----------- | ----- | ----------- | --------------- | ---------------------------- |

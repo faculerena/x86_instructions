@@ -1,5 +1,4 @@
-#FXCH
-**Exchange Register Contents**
+# FXCH**Exchange Register Contents**
 
 | Opcode  | Instruction | 64-Bit Mode | Compat/Leg Mode | Description                               |
 | ------- | ----------- | ----------- | --------------- | ----------------------------------------- |

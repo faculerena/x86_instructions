@@ -1,5 +1,4 @@
-#VPCMPQ/VPCMPUQ
-**Compare Packed Integer Values Into Mask**
+# VPCMPQ/VPCMPUQ**Compare Packed Integer Values Into Mask**
 
 | Opcode/Instruction                                                          | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                                                                                                |
 | --------------------------------------------------------------------------- | ----- | ---------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

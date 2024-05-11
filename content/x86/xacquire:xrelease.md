@@ -1,5 +1,4 @@
-#XACQUIRE/XRELEASE
-**Hardware Lock Elision Prefix Hints**
+# XACQUIRE/XRELEASE**Hardware Lock Elision Prefix Hints**
 
 | Opcode/Instruction | 64/32bit Mode Support | CPUID Feature Flag | Description                                                                                                         |
 | ------------------ | --------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------- |

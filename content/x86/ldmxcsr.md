@@ -1,5 +1,4 @@
-#LDMXCSR
-**Load MXCSR Register**
+# LDMXCSR**Load MXCSR Register**
 
 | Opcode/Instruction               | Op/En | 64/32-bit Mode | CPUID Feature Flag | Description                   |
 | -------------------------------- | ----- | -------------- | ------------------ | ----------------------------- |

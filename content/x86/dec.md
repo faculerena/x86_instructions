@@ -1,5 +1,4 @@
-#DEC
-**Decrement by **
+# DEC**Decrement by **
 
 | Opcode        | Instruction  | Op/En | 64-Bit Mode | Compat/Leg Mode | Description             |
 | ------------- | ------------ | ----- | ----------- | --------------- | ----------------------- |

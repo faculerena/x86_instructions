@@ -1,5 +1,4 @@
-#EMMS
-**Empty MMX Technology State**
+# EMMS**Empty MMX Technology State**
 
 | Opcode   | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                        |
 | -------- | ----------- | ----- | ----------- | --------------- | ---------------------------------- |

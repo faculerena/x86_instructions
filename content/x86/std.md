@@ -1,5 +1,4 @@
-#STD
-**Set Direction Flag**
+# STD**Set Direction Flag**
 
 | Opcode | Instruction | Op/En | 64-bit Mode | Compat/Leg Mode | Description  |
 | ------ | ----------- | ----- | ----------- | --------------- | ------------ |

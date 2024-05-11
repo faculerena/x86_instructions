@@ -1,5 +1,4 @@
-#FSCALE
-**Scale**
+# FSCALE**Scale**
 
 | Opcode |     | Mode | Leg Mode | Description           |
 | ------ | --- | ---- | -------- | --------------------- |

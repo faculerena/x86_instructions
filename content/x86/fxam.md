@@ -1,5 +1,4 @@
-#FXAM
-**Examine Floating**
+# FXAM**Examine Floating**
 
 | Opcode |     | Mode | Leg Mode | Description                        |
 | ------ | --- | ---- | -------- | ---------------------------------- |

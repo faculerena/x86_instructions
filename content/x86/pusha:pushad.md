@@ -1,5 +1,4 @@
-#PUSHA/PUSHAD
-**Push All General**
+# PUSHA/PUSHAD**Push All General**
 
 | Opcode | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                               |
 | ------ | ----------- | ----- | ----------- | --------------- | --------------------------------------------------------- |

@@ -1,5 +1,4 @@
-#NOT
-**One**
+# NOT**One**
 
 | Opcode        | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                |
 | ------------- | ----------- | ----- | ----------- | --------------- | -------------------------- |

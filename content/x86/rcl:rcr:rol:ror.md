@@ -1,5 +1,4 @@
-#RCL/RCR/ROL/ROR
-**Rotate**
+# RCL/RCR/ROL/ROR**Rotate**
 
 **Opcode1**
 

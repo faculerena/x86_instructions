@@ -1,5 +1,4 @@
-#EEXTEND
-**Extend Uninitialized Enclave Measurement by **
+# EEXTEND**Extend Uninitialized Enclave Measurement by **
 
 | Opcode/Instruction       | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                             |
 | ------------------------ | ----- | ---------------------- | ------------------ | ----------------------------------------------------------------------- |

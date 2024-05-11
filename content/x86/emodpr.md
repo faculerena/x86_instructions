@@ -1,5 +1,4 @@
-#EMODPR
-**Restrict the Permissions of an EPC Page**
+# EMODPR**Restrict the Permissions of an EPC Page**
 
 | Opcode/Instruction      | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                          |
 | ----------------------- | ----- | ---------------------- | ------------------ | ---------------------------------------------------------------------------------------------------- |

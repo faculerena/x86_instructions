@@ -1,5 +1,4 @@
-#TEST
-**Logical Compare**
+# TEST**Logical Compare**
 
 | Opcode           | Instruction       | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                                                        |
 | ---------------- | ----------------- | ----- | ----------- | --------------- | ---------------------------------------------------------------------------------- |

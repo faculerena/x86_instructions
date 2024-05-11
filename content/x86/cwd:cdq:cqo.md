@@ -1,5 +1,4 @@
-#CWD/CDQ/CQO
-**Convert Word to Doubleword**
+# CWD/CDQ/CQO**Convert Word to Doubleword**
 
 | Opcode     | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                    |
 | ---------- | ----------- | ----- | ----------- | --------------- | ------------------------------ |

@@ -1,5 +1,4 @@
-#CBW/CWDE/CDQE
-**Convert Byte to Word**
+# CBW/CWDE/CDQE**Convert Byte to Word**
 
 | Opcode     | Instruction | Op/En | 64-bit Mode | Compat/Leg Mode | Description                |
 | ---------- | ----------- | ----- | ----------- | --------------- | -------------------------- |

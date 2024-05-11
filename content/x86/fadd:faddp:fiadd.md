@@ -1,5 +1,4 @@
-#FADD/FADDP/FIADD
-**Add**
+# FADD/FADDP/FIADD**Add**
 
 | Opcode  | Instruction        | 64-Bit Mode | Compat/Leg Mode | Description                                                            |
 | ------- | ------------------ | ----------- | --------------- | ---------------------------------------------------------------------- |

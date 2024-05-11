@@ -1,5 +1,4 @@
-#FSUBR/FSUBRP/FISUBR
-**Reverse Subtract**
+# FSUBR/FSUBRP/FISUBR**Reverse Subtract**
 
 | Opcode  | Instruction         | 64-Bit Mode | Compat/Leg Mode | Description                                                               |
 | ------- | ------------------- | ----------- | --------------- | ------------------------------------------------------------------------- |

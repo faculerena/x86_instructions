@@ -1,5 +1,4 @@
-#FTST
-**TEST**
+# FTST**TEST**
 
 | Opcode |     | Mode | Leg Mode | Description             |
 | ------ | --- | ---- | -------- | ----------------------- |

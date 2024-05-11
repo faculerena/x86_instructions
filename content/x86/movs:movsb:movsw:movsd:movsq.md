@@ -1,5 +1,4 @@
-#MOVS/MOVSB/MOVSW/MOVSD/MOVSQ
-**Move Data From String to String**
+# MOVS/MOVSB/MOVSW/MOVSD/MOVSQ**Move Data From String to String**
 
 \
 

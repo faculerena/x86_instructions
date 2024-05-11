@@ -1,5 +1,4 @@
-#STAC
-**Set AC Flag in EFLAGS Register**
+# STAC**Set AC Flag in EFLAGS Register**
 
 | Opcode/Instruction | Op / En | 64/32 bit Mode Support | CPUID Feature Flag | Description                             |
 | ------------------ | ------- | ---------------------- | ------------------ | --------------------------------------- |

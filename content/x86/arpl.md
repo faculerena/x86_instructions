@@ -1,5 +1,4 @@
-#ARPL
-**Adjust RPL Field of Segment Selector**
+# ARPL**Adjust RPL Field of Segment Selector**
 
 | Opcode | Instruction     | Op/En | 64-bit Mode | Compat/Leg Mode | Description                                      |
 | ------ | --------------- | ----- | ----------- | --------------- | ------------------------------------------------ |

@@ -1,5 +1,4 @@
-#INVEPT
-**Invalidate Translations Derived from EPT**
+# INVEPT**Invalidate Translations Derived from EPT**
 
 | Opcode/Instruction           | Op/En | Description                                                                                    |
 | ---------------------------- | ----- | ---------------------------------------------------------------------------------------------- |

@@ -1,5 +1,4 @@
-#VPCMPW/VPCMPUW
-**Compare Packed Word Values Into Mask**
+# VPCMPW/VPCMPUW**Compare Packed Word Values Into Mask**
 
 | Opcode/Instruction                                                  | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                                                                              |
 | ------------------------------------------------------------------- | ----- | ---------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

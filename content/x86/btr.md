@@ -1,5 +1,4 @@
-#BTR
-**Bit Test and Reset**
+# BTR**Bit Test and Reset**
 
 | Opcode              | Instruction     | Op/En | 64-bit Mode | Compat/Leg Mode | Description                              |
 | ------------------- | --------------- | ----- | ----------- | --------------- | ---------------------------------------- |

@@ -1,5 +1,4 @@
-#LTR
-**Load Task Register**
+# LTR**Load Task Register**
 
 | Opcode   | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                    |
 | -------- | ----------- | ----- | ----------- | --------------- | ------------------------------ |

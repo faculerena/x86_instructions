@@ -1,5 +1,4 @@
-#PBLENDW
-**Blend Packed Words**
+# PBLENDW**Blend Packed Words**
 
 | Opcode/Instruction                                                | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                      |
 | ----------------------------------------------------------------- | ----- | ---------------------- | ------------------ | ------------------------------------------------------------------------------------------------ |

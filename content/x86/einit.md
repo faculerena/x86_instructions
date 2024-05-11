@@ -1,5 +1,4 @@
-#EINIT
-**Initialize an Enclave for Execution**
+# EINIT**Initialize an Enclave for Execution**
 
 | Opcode/Instruction     | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                            |
 | ---------------------- | ----- | ---------------------- | ------------------ | -------------------------------------------------------------------------------------- |

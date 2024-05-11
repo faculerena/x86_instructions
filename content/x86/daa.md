@@ -1,5 +1,4 @@
-#DAA
-**Decimal Adjust AL After Addition**
+# DAA**Decimal Adjust AL After Addition**
 
 | Opcode | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                       |
 | ------ | ----------- | ----- | ----------- | --------------- | --------------------------------- |

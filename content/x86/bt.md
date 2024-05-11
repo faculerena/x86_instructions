@@ -1,5 +1,4 @@
-#BT
-**Bit Test**
+# BT**Bit Test**
 
 | Opcode              | Instruction    | Op/En | 64-bit Mode | Compat/Leg Mode | Description                    |
 | ------------------- | -------------- | ----- | ----------- | --------------- | ------------------------------ |

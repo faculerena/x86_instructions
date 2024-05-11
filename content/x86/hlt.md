@@ -1,5 +1,4 @@
-#HLT
-**Halt**
+# HLT**Halt**
 
 | Opcode | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description |
 | ------ | ----------- | ----- | ----------- | --------------- | ----------- |

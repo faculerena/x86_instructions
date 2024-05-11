@@ -1,5 +1,4 @@
-#ENCLS
-**Execute an Enclave System Function of Specified Leaf Number**
+# ENCLS**Execute an Enclave System Function of Specified Leaf Number**
 
 | Opcode/Instruction | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                                    |
 | ------------------ | ----- | ---------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------ |

@@ -1,5 +1,4 @@
-#RDTSC
-**Read Time**
+# RDTSC**Read Time**
 
 | Opcode\* | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                           |
 | -------- | ----------- | ----- | ----------- | --------------- | ------------------------------------- |

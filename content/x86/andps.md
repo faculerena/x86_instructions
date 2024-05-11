@@ -1,5 +1,4 @@
-#ANDPS
-**Bitwise Logical AND of Packed Single Precision Floating**
+# ANDPS**Bitwise Logical AND of Packed Single Precision Floating**
 
 | Opcode/Instruction                                                | Op / En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                                            |
 | ----------------------------------------------------------------- | ------- | ---------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |

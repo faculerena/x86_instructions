@@ -1,5 +1,4 @@
-#BNDCU/BNDCN
-**Check Upper Bound**
+# BNDCU/BNDCN**Check Upper Bound**
 
 | Opcode/Instruction           | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                            |
 | ---------------------------- | ----- | ---------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------- |

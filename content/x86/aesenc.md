@@ -1,5 +1,4 @@
-#AESENC
-**Perform One Round of an AES Encryption Flow**
+# AESENC**Perform One Round of an AES Encryption Flow**
 
 | Opcode/Instruction                                       | Op/En | 64/32-bit Mode | CPUID Feature Flag | Description                                                                                                                                                       |
 | -------------------------------------------------------- | ----- | -------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |

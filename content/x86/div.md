@@ -1,5 +1,4 @@
-#DIV
-**Unsigned Divide**
+# DIV**Unsigned Divide**
 
 | Opcode        | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                                                                |
 | ------------- | ----------- | ----- | ----------- | --------------- | ------------------------------------------------------------------------------------------ |

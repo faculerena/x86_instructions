@@ -1,5 +1,4 @@
-#LGDT/LIDT
-**Load Global**
+# LGDT/LIDT**Load Global**
 
 | Opcode   | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description       |
 | -------- | ----------- | ----- | ----------- | --------------- | ----------------- |

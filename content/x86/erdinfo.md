@@ -1,5 +1,4 @@
-#ERDINFO
-**Read Type and Status Information About an EPC Page**
+# ERDINFO**Read Type and Status Information About an EPC Page**
 
 | Opcode/Instruction       | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                               |
 | ------------------------ | ----- | ---------------------- | ------------------ | ------------------------------------------------------------------------- |

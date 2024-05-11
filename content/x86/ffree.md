@@ -1,5 +1,4 @@
-#FFREE
-**Free Floating**
+# FFREE**Free Floating**
 
 | Opcode  |     | Mode | Leg Mode | Description                  |
 | ------- | --- | ---- | -------- | ---------------------------- |

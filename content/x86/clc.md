@@ -1,5 +1,4 @@
-#CLC
-**Clear Carry Flag**
+# CLC**Clear Carry Flag**
 
 | Opcode | Instruction | Op/En | 64-bit Mode | Compat/Leg Mode | Description    |
 | ------ | ----------- | ----- | ----------- | --------------- | -------------- |

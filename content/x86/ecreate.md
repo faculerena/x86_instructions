@@ -1,5 +1,4 @@
-#ECREATE
-**Create an SECS page in the Enclave Page Cache**
+# ECREATE**Create an SECS page in the Enclave Page Cache**
 
 | Opcode/Instruction       | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                 |
 | ------------------------ | ----- | ---------------------- | ------------------ | --------------------------------------------------------------------------- |

@@ -1,5 +1,4 @@
-#IDIV
-**Signed Divide**
+# IDIV**Signed Divide**
 
 | Opcode        | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                                                              |
 | ------------- | ----------- | ----- | ----------- | --------------- | ---------------------------------------------------------------------------------------- |

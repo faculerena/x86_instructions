@@ -1,5 +1,4 @@
-#FLDCW
-**Load x**
+# FLDCW**Load x**
 
 | Opcode |     | Mode | Leg Mode | Description                        |
 | ------ | --- | ---- | -------- | ---------------------------------- |

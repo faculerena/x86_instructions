@@ -1,5 +1,4 @@
-#FMUL/FMULP/FIMUL
-**Multiply**
+# FMUL/FMULP/FIMUL**Multiply**
 
 | Opcode  | Instruction        | 64-Bit Mode | Compat/Leg Mode | Description                                                                 |
 | ------- | ------------------ | ----------- | --------------- | --------------------------------------------------------------------------- |

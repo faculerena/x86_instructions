@@ -1,5 +1,4 @@
-#FSUB/FSUBP/FISUB
-**Subtract**
+# FSUB/FSUBP/FISUB**Subtract**
 
 | Opcode  | Instruction        | 64-Bit Mode | Compat/Leg Mode | Description                                                               |
 | ------- | ------------------ | ----------- | --------------- | ------------------------------------------------------------------------- |

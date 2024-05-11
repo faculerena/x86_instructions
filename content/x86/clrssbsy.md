@@ -1,5 +1,4 @@
-#CLRSSBSY
-**Clear Busy Flag in a Supervisor Shadow Stack Token**
+# CLRSSBSY**Clear Busy Flag in a Supervisor Shadow Stack Token**
 
 | Opcode/Instruction       | Op / En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                        |
 | ------------------------ | ------- | ---------------------- | ------------------ | ------------------------------------------------------------------ |

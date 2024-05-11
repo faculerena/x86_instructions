@@ -1,5 +1,4 @@
-#POPCNT
-**Return the Count of Number of Bits Set to **
+# POPCNT**Return the Count of Number of Bits Set to **
 
 | Opcode            | Instruction       | Op/En | 64-Bit Mode | Compat/Leg Mode | Description     |
 | ----------------- | ----------------- | ----- | ----------- | --------------- | --------------- |

@@ -1,5 +1,4 @@
-#MOVZX
-**Move With Zero**
+# MOVZX**Move With Zero**
 
 | Opcode           | Instruction      | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                              |
 | ---------------- | ---------------- | ----- | ----------- | --------------- | ---------------------------------------- |

@@ -1,5 +1,4 @@
-#FRSTOR
-**Restore x**
+# FRSTOR**Restore x**
 
 | Opcode |     | Mode | Leg Mode | Description                              |
 | ------ | --- | ---- | -------- | ---------------------------------------- |

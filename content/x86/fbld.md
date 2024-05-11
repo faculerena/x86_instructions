@@ -1,5 +1,4 @@
-#FBLD
-**Load Binary Coded Decimal**
+# FBLD**Load Binary Coded Decimal**
 
 | Opcode | Instruction | 64-Bit Mode | Compat/Leg Mode | Description                                                      |
 | ------ | ----------- | ----------- | --------------- | ---------------------------------------------------------------- |

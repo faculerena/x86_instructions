@@ -1,5 +1,4 @@
-#IRET/IRETD/IRETQ
-**Interrupt Return**
+# IRET/IRETD/IRETQ**Interrupt Return**
 
 | Opcode     | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                             |
 | ---------- | ----------- | ----- | ----------- | --------------- | --------------------------------------- |

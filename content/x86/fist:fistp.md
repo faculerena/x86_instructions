@@ -1,5 +1,4 @@
-#FIST/FISTP
-**Store Integer**
+# FIST/FISTP**Store Integer**
 
 | Opcode | Instruction  | 64-Bit Mode | Compat/Leg Mode | Description                                   |
 | ------ | ------------ | ----------- | --------------- | --------------------------------------------- |

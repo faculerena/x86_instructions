@@ -1,5 +1,4 @@
-#ANDN
-**Logical AND NOT**
+# ANDN**Logical AND NOT**
 
 | Opcode/Instruction                           | Op/En | 64/32-bit Mode | CPUID Feature Flag | Description                                                    |
 | -------------------------------------------- | ----- | -------------- | ------------------ | -------------------------------------------------------------- |

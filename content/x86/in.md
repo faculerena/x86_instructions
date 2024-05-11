@@ -1,5 +1,4 @@
-#IN
-**Input From Port**
+# IN**Input From Port**
 
 | Opcode | Instruction  | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                      |
 | ------ | ------------ | ----- | ----------- | --------------- | ------------------------------------------------ |

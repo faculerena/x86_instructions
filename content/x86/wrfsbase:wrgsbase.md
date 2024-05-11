@@ -1,5 +1,4 @@
-#WRFSBASE/WRGSBASE
-**Write FS**
+# WRFSBASE/WRGSBASE**Write FS**
 
 | Opcode/Instruction             | Op/En | 64/32-bit Mode | CPUID Feature Flag | Description                                                            |
 | ------------------------------ | ----- | -------------- | ------------------ | ---------------------------------------------------------------------- |

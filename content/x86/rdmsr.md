@@ -1,5 +1,4 @@
-#RDMSR
-**Read From Model Specific Register**
+# RDMSR**Read From Model Specific Register**
 
 **Opcode1**
 

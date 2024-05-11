@@ -1,5 +1,4 @@
-#MULPS
-**Multiply Packed Single Precision Floating**
+# MULPS**Multiply Packed Single Precision Floating**
 
 | Opcode/Instruction                                                     | Op / En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                     |
 | ---------------------------------------------------------------------- | ------- | ---------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------- |

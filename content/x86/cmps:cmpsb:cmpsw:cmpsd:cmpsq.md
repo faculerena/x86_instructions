@@ -1,5 +1,4 @@
-#CMPS/CMPSB/CMPSW/CMPSD/CMPSQ
-**Compare String Operands**
+# CMPS/CMPSB/CMPSW/CMPSD/CMPSQ**Compare String Operands**
 
 | Opcode     | Instruction       | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                                                                                                    |
 | ---------- | ----------------- | ----- | ----------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------- | ------------------------------------------- |

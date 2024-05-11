@@ -1,5 +1,4 @@
-#BNDLDX
-**Load Extended Bounds Using Address Translation**
+# BNDLDX**Load Extended Bounds Using Address Translation**
 
 | Opcode/Instruction          | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                                                                                            |
 | --------------------------- | ----- | ---------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

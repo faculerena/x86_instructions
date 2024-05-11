@@ -1,5 +1,4 @@
-#XABORT
-**Transactional Abort**
+# XABORT**Transactional Abort**
 
 | Opcode/Instruction   | Op/En | 64/32bit Mode Support | CPUID Feature Flag | Description                              |
 | -------------------- | ----- | --------------------- | ------------------ | ---------------------------------------- |

@@ -1,5 +1,4 @@
-#PADDUSB/PADDUSW
-**Add Packed Unsigned Integers With Unsigned Saturation**
+# PADDUSB/PADDUSW**Add Packed Unsigned Integers With Unsigned Saturation**
 
 | Opcode/Instruction                                              | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                            |
 | --------------------------------------------------------------- | ----- | ---------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------- |

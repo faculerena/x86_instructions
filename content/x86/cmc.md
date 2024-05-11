@@ -1,5 +1,4 @@
-#CMC
-**Complement Carry Flag**
+# CMC**Complement Carry Flag**
 
 | Opcode | Instruction | Op/En | 64-bit Mode | Compat/Leg Mode | Description         |
 | ------ | ----------- | ----- | ----------- | --------------- | ------------------- |

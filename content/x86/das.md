@@ -1,5 +1,4 @@
-#DAS
-**Decimal Adjust AL After Subtraction**
+# DAS**Decimal Adjust AL After Subtraction**
 
 | Opcode | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                          |
 | ------ | ----------- | ----- | ----------- | --------------- | ------------------------------------ |

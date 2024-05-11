@@ -1,5 +1,4 @@
-#VERR/VERW
-**Verify a Segment for Reading or Writing**
+# VERR/VERW**Verify a Segment for Reading or Writing**
 
 | Opcode/Instruction  | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                              |
 | ------------------- | ----- | ----------- | --------------- | -------------------------------------------------------- |

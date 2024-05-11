@@ -1,5 +1,4 @@
-#TZCNT
-**Count the Number of Trailing Zero Bits**
+# TZCNT**Count the Number of Trailing Zero Bits**
 
 | Opcode/Instruction                 | Op/En | 64/32-bit Mode | CPUID Feature Flag | Description                                                            |
 | ---------------------------------- | ----- | -------------- | ------------------ | ---------------------------------------------------------------------- |

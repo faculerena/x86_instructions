@@ -1,5 +1,4 @@
-#RDSEED
-**Read Random SEED**
+# RDSEED**Read Random SEED**
 
 | Opcode/Instruction              | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                    |
 | ------------------------------- | ----- | ---------------------- | ------------------ | ---------------------------------------------------------------------------------------------- |

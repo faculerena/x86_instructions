@@ -1,5 +1,4 @@
-#BNDSTX
-**Store Extended Bounds Using Address Translation**
+# BNDSTX**Store Extended Bounds Using Address Translation**
 
 | Opcode/Instruction          | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                                                             |
 | --------------------------- | ----- | ---------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |

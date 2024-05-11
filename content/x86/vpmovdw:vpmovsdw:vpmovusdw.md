@@ -1,5 +1,4 @@
-#VPMOVDW/VPMOVSDW/VPMOVUSDW
-**Down Convert DWord to Word**
+# VPMOVDW/VPMOVSDW/VPMOVUSDW**Down Convert DWord to Word**
 
 | Opcode/Instruction                                          | Op / En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                                                                 |
 | ----------------------------------------------------------- | ------- | ---------------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |

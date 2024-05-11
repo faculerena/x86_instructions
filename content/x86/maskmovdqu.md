@@ -1,5 +1,4 @@
-#MASKMOVDQU
-**Store Selected Bytes of Double Quadword**
+# MASKMOVDQU**Store Selected Bytes of Double Quadword**
 
 | Opcode/Instruction                             | Op/En | 64/32-bit Mode | CPUID Feature Flag | Description                                                                                                                                  |
 | ---------------------------------------------- | ----- | -------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |

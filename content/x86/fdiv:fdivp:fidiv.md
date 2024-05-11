@@ -1,5 +1,4 @@
-#FDIV/FDIVP/FIDIV
-**Divide**
+# FDIV/FDIVP/FIDIV**Divide**
 
 | Opcode  | Instruction        | 64-Bit Mode | Compat/Leg Mode | Description                                                               |
 | ------- | ------------------ | ----------- | --------------- | ------------------------------------------------------------------------- |

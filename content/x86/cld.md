@@ -1,5 +1,4 @@
-#CLD
-**Clear Direction Flag**
+# CLD**Clear Direction Flag**
 
 | Opcode | Instruction | Op/En | 64-bit Mode | Compat/Leg Mode | Description    |
 | ------ | ----------- | ----- | ----------- | --------------- | -------------- |

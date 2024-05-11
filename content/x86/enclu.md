@@ -1,5 +1,4 @@
-#ENCLU
-**Execute an Enclave User Function of Specified Leaf Number**
+# ENCLU**Execute an Enclave User Function of Specified Leaf Number**
 
 | Opcode/Instruction | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                  |
 | ------------------ | ----- | ---------------------- | ------------------ | ---------------------------------------------------------------------------- |

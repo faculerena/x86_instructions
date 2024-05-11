@@ -1,5 +1,4 @@
-#EWB
-**Invalidate an EPC Page and Write out to Main Memory**
+# EWB**Invalidate an EPC Page and Write out to Main Memory**
 
 | Opcode/Instruction   | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                  |
 | -------------------- | ----- | ---------------------- | ------------------ | ---------------------------------------------------------------------------- |

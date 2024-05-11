@@ -1,5 +1,4 @@
-#NOP
-**No Operation**
+# NOP**No Operation**
 
 | Opcode      | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                          |
 | ----------- | ----------- | ----- | ----------- | --------------- | ------------------------------------ |

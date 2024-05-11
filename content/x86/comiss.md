@@ -1,5 +1,4 @@
-#COMISS
-**Compare Scalar Ordered Single Precision Floating**
+# COMISS**Compare Scalar Ordered Single Precision Floating**
 
 | Opcode/Instruction                                | Op / En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                     |
 | ------------------------------------------------- | ------- | ---------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------- |

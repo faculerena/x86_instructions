@@ -1,5 +1,4 @@
-#BSWAP
-**Byte Swap**
+# BSWAP**Byte Swap**
 
 | Opcode             | Instruction | Op/En | 64-bit Mode | Compat/Leg Mode | Description                                   |
 | ------------------ | ----------- | ----- | ----------- | --------------- | --------------------------------------------- |

@@ -1,5 +1,4 @@
-#PMINUD/PMINUQ
-**Minimum of Packed Unsigned Integers**
+# PMINUD/PMINUQ**Minimum of Packed Unsigned Integers**
 
 | Opcode/Instruction                                                      | Op/E n | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                                      |
 | ----------------------------------------------------------------------- | ------ | ---------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------- |

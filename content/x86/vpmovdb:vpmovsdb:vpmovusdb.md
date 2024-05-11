@@ -1,5 +1,4 @@
-#VPMOVDB/VPMOVSDB/VPMOVUSDB
-**Down Convert DWord to Byte**
+# VPMOVDB/VPMOVSDB/VPMOVUSDB**Down Convert DWord to Byte**
 
 | Opcode/Instruction                                          | Op / En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                                                                 |
 | ----------------------------------------------------------- | ------- | ---------------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |

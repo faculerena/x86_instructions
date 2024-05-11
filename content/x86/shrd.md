@@ -1,5 +1,4 @@
-#SHRD
-**Double Precision Shift Right**
+# SHRD**Double Precision Shift Right**
 
 | Opcode\*            | Instruction           | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                                                     |
 | ------------------- | --------------------- | ----- | ----------- | --------------- | ------------------------------------------------------------------------------- |

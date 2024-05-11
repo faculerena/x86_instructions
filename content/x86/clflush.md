@@ -1,5 +1,4 @@
-#CLFLUSH
-**Flush Cache Line**
+# CLFLUSH**Flush Cache Line**
 
 | Opcode / Instruction     | Op/En | 64-bit Mode | Compat/Leg Mode | Description                         |
 | ------------------------ | ----- | ----------- | --------------- | ----------------------------------- |

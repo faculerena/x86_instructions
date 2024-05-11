@@ -1,5 +1,4 @@
-#PSRAW/PSRAD/PSRAQ
-**Shift Packed Data Right Arithmetic**
+# PSRAW/PSRAD/PSRAQ**Shift Packed Data Right Arithmetic**
 
 | Opcode/Instruction                                                      | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                      |
 | ----------------------------------------------------------------------- | ----- | ---------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------- |

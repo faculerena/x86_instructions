@@ -1,5 +1,4 @@
-#PCMPGTB/PCMPGTW/PCMPGTD
-**Compare Packed Signed Integers for Greater Than**
+# PCMPGTB/PCMPGTW/PCMPGTD**Compare Packed Signed Integers for Greater Than**
 
 | Opcode/Instruction                                                | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                                                                                             |
 | ----------------------------------------------------------------- | ----- | ---------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

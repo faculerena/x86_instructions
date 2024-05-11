@@ -1,5 +1,4 @@
-#TDPBSSD/TDPBSUD/TDPBUSD/TDPBUUD
-**Dot Product of Signed**
+# TDPBSSD/TDPBSUD/TDPBUSD/TDPBUUD**Dot Product of Signed**
 
 | Opcode/Instruction                                        | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                                     |
 | --------------------------------------------------------- | ----- | ---------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,5 +1,4 @@
-#LDS/LES/LFS/LGS/LSS
-**Load Far Pointer**
+# LDS/LES/LFS/LGS/LSS**Load Far Pointer**
 
 | Opcode         | Instruction    | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                               |
 | -------------- | -------------- | ----- | ----------- | --------------- | ----------------------------------------- |

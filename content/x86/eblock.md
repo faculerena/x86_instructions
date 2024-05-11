@@ -1,5 +1,4 @@
-#EBLOCK
-**Mark a page in EPC as Blocked**
+# EBLOCK**Mark a page in EPC as Blocked**
 
 | Opcode/Instruction      | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                            |
 | ----------------------- | ----- | ---------------------- | ------------------ | ------------------------------------------------------ |

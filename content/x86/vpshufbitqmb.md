@@ -1,5 +1,4 @@
-#VPSHUFBITQMB
-**Shuffle Bits From Quadword Elements Using Byte Indexes Into Mask**
+# VPSHUFBITQMB**Shuffle Bits From Quadword Elements Using Byte Indexes Into Mask**
 
 | Opcode/Instruction                                             | Op/En | 64/32 bit Mode Support | CPUID Feature Flag     | Description                                                                                                        |
 | -------------------------------------------------------------- | ----- | ---------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------ |

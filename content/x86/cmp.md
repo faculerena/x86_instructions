@@ -1,5 +1,4 @@
-#CMP
-**Compare Two Operands**
+# CMP**Compare Two Operands**
 
 | Opcode           | Instruction      | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                        |
 | ---------------- | ---------------- | ----- | ----------- | --------------- | -------------------------------------------------- |

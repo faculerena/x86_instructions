@@ -1,5 +1,4 @@
-#STUI
-**Set User Interrupt Flag**
+# STUI**Set User Interrupt Flag**
 
 | Opcode/Instruction | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description              |
 | ------------------ | ----- | ---------------------- | ------------------ | ------------------------ |

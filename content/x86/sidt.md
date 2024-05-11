@@ -1,5 +1,4 @@
-#SIDT
-**Store Interrupt Descriptor Table Register**
+# SIDT**Store Interrupt Descriptor Table Register**
 
 **Opcode1**
 

@@ -1,5 +1,4 @@
-#INC
-**Increment by **
+# INC**Increment by **
 
 | Opcode        | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                         |
 | ------------- | ----------- | ----- | ----------- | --------------- | ----------------------------------- |

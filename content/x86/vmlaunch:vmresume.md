@@ -1,5 +1,4 @@
-#VMLAUNCH/VMRESUME
-**Launch**
+# VMLAUNCH/VMRESUME**Launch**
 
 | Opcode/Instruction | Op/En | Description                                     |
 | ------------------ | ----- | ----------------------------------------------- |

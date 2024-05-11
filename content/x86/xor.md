@@ -1,5 +1,4 @@
-#XOR
-**Logical Exclusive OR**
+# XOR**Logical Exclusive OR**
 
 | Opcode           | Instruction      | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                      |
 | ---------------- | ---------------- | ----- | ----------- | --------------- | -------------------------------- |

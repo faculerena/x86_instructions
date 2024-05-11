@@ -1,5 +1,4 @@
-#XLAT/XLATB
-**Table Look**
+# XLAT/XLATB**Table Look**
 
 | Opcode     | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                     |
 | ---------- | ----------- | ----- | ----------- | --------------- | ----------------------------------------------- |

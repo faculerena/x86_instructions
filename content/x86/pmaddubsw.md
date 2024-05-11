@@ -1,5 +1,4 @@
-#PMADDUBSW
-**Multiply and Add Packed Signed and Unsigned Bytes**
+# PMADDUBSW**Multiply and Add Packed Signed and Unsigned Bytes**
 
 | Opcode/Instruction                                                  | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                                      |
 | ------------------------------------------------------------------- | ----- | ---------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------- |

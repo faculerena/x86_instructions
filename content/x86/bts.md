@@ -1,5 +1,4 @@
-#BTS
-**Bit Test and Set**
+# BTS**Bit Test and Set**
 
 | Opcode              | Instruction     | Op/En | 64-bit Mode | Compat/Leg Mode | Description                            |
 | ------------------- | --------------- | ----- | ----------- | --------------- | -------------------------------------- |

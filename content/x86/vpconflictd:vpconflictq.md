@@ -1,5 +1,4 @@
-#VPCONFLICTD/VPCONFLICTQ
-**Detect Conflicts Within a Vector of Packed Dword**
+# VPCONFLICTD/VPCONFLICTQ**Detect Conflicts Within a Vector of Packed Dword**
 
 | Opcode/Instruction                                                    | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                  |
 | --------------------------------------------------------------------- | ----- | ---------------------- | ------------------ | ---------------------------------------------------------------------------- |

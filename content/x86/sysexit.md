@@ -1,5 +1,4 @@
-#SYSEXIT
-**Fast Return from Fast System Call**
+# SYSEXIT**Fast Return from Fast System Call**
 
 | Opcode        | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                             |
 | ------------- | ----------- | ----- | ----------- | --------------- | ------------------------------------------------------- |

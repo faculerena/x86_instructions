@@ -1,5 +1,4 @@
-#FST/FSTP
-**Store Floating**
+# FST/FSTP**Store Floating**
 
 | Opcode  | Instruction | 64-Bit Mode | Compat/Leg Mode | Description                                 |
 | ------- | ----------- | ----------- | --------------- | ------------------------------------------- |

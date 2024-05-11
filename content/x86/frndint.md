@@ -1,5 +1,4 @@
-#FRNDINT
-**Round to Integer**
+# FRNDINT**Round to Integer**
 
 | Opcode |     | Mode | Leg Mode | Description                |
 | ------ | --- | ---- | -------- | -------------------------- |

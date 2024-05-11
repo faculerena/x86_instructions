@@ -1,5 +1,4 @@
-#IMUL
-**Signed Multiply**
+# IMUL**Signed Multiply**
 
 | Opcode           | Instruction            | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                                  |
 | ---------------- | ---------------------- | ----- | ----------- | --------------- | ------------------------------------------------------------ |

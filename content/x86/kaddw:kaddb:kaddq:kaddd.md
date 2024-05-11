@@ -1,5 +1,4 @@
-#KADDW/KADDB/KADDQ/KADDD
-**ADD Two Masks**
+# KADDW/KADDB/KADDQ/KADDD**ADD Two Masks**
 
 | Opcode/Instruction                     | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                            |
 | -------------------------------------- | ----- | ---------------------- | ------------------ | ------------------------------------------------------ |

@@ -1,5 +1,4 @@
-#PSHUFW
-**Shuffle Packed Words**
+# PSHUFW**Shuffle Packed Words**
 
 | Opcode/Instruction                       | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                                                             |
 | ---------------------------------------- | ----- | ----------- | --------------- | --------------------------------------------------------------------------------------- |

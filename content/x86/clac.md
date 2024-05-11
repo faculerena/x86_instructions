@@ -1,5 +1,4 @@
-#CLAC
-**Clear AC Flag in EFLAGS Register**
+# CLAC**Clear AC Flag in EFLAGS Register**
 
 | Opcode/Instruction | Op / En | 64/32 bit Mode Support | CPUID Feature Flag | Description                               |
 | ------------------ | ------- | ---------------------- | ------------------ | ----------------------------------------- |

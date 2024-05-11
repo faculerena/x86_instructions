@@ -1,5 +1,4 @@
-#LSL
-**Load Segment Limit**
+# LSL**Load Segment Limit**
 
 | Opcode           | Instruction       | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                   |
 | ---------------- | ----------------- | ----- | ----------- | --------------- | --------------------------------------------- |

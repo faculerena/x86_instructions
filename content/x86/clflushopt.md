@@ -1,5 +1,4 @@
-#CLFLUSHOPT
-**Flush Cache Line Optimized**
+# CLFLUSHOPT**Flush Cache Line Optimized**
 
 | Opcode / Instruction          | Op/En | 64-bit Mode | Compat/Leg Mode | Description                       |
 | ----------------------------- | ----- | ----------- | --------------- | --------------------------------- |

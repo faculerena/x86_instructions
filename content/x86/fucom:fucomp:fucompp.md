@@ -1,5 +1,4 @@
-#FUCOM/FUCOMP/FUCOMPP
-**Unordered Compare Floating**
+# FUCOM/FUCOMP/FUCOMPP**Unordered Compare Floating**
 
 | Opcode  | Instruction  | 64-Bit Mode | Compat/Leg Mode | Description                                            |
 | ------- | ------------ | ----------- | --------------- | ------------------------------------------------------ |

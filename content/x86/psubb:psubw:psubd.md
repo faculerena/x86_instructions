@@ -1,5 +1,4 @@
-#PSUBB/PSUBW/PSUBD
-**Subtract Packed Integers**
+# PSUBB/PSUBW/PSUBD**Subtract Packed Integers**
 
 | Opcode/Instruction                                                   | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                              |
 | -------------------------------------------------------------------- | ----- | ---------------------- | ------------------ | -------------------------------------------------------------------------------------------------------- |

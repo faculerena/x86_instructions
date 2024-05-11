@@ -1,5 +1,4 @@
-#SGDT
-**Store Global Descriptor Table Register**
+# SGDT**Store Global Descriptor Table Register**
 
 **Opcode1**
 

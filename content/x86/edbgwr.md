@@ -1,5 +1,4 @@
-#EDBGWR
-**Write to a Debug Enclave**
+# EDBGWR**Write to a Debug Enclave**
 
 | Opcode/Instruction      | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                    |
 | ----------------------- | ----- | ---------------------- | ------------------ | -------------------------------------------------------------- |

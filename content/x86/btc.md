@@ -1,5 +1,4 @@
-#BTC
-**Bit Test and Complement**
+# BTC**Bit Test and Complement**
 
 | Opcode              | Instruction     | Op/En | 64-bit Mode | Compat/Leg Mode | Description                                   |
 | ------------------- | --------------- | ----- | ----------- | --------------- | --------------------------------------------- |

@@ -1,5 +1,4 @@
-#EDBGRD
-**Read From a Debug Enclave**
+# EDBGRD**Read From a Debug Enclave**
 
 | Opcode/Instruction      | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                     |
 | ----------------------- | ----- | ---------------------- | ------------------ | --------------------------------------------------------------- |

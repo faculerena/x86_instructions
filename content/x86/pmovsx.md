@@ -1,5 +1,4 @@
-#PMOVSX
-**Packed Move With Sign Extend**
+# PMOVSX**Packed Move With Sign Extend**
 
 | Opcode/Instruction                                           | Op / En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                                          |
 | ------------------------------------------------------------ | ------- | ---------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
