@@ -1,4 +1,6 @@
-# LMSW**Load Machine Status Word**
+# LMSW
+
+**Load Machine Status Word**
 
 | Opcode   | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                |
 | -------- | ----------- | ----- | ----------- | --------------- | ------------------------------------------ |

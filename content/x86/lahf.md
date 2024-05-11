@@ -1,4 +1,6 @@
-# LAHF**Load Status Flags Into AH Register**
+# LAHF
+
+**Load Status Flags Into AH Register**
 
 | Opcode |     | En  | Mode | Leg Mode | Description                               |
 | ------ | --- | --- | ---- | -------- | ----------------------------------------- |

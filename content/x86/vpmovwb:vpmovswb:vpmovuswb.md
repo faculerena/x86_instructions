@@ -1,4 +1,6 @@
-# VPMOVWB/VPMOVSWB/VPMOVUSWB**Down Convert Word to Byte**
+# VPMOVWB/VPMOVSWB/VPMOVUSWB
+
+**Down Convert Word to Byte**
 
 | Opcode/Instruction                                          | Op / En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                                                  |
 | ----------------------------------------------------------- | ------- | ---------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |

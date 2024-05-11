@@ -1,4 +1,6 @@
-# ELDB/ELDU/ELDBC/ELDUC**Load an EPC Page and Mark its State**
+# ELDB/ELDU/ELDBC/ELDUC
+
+**Load an EPC Page and Mark its State**
 
 | Opcode/Instruction     | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                    |
 | ---------------------- | ----- | ---------------------- | ------------------ | ---------------------------------------------------------------------------------------------- |

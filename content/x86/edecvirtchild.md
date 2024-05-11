@@ -1,4 +1,6 @@
-# EDECVIRTCHILD**Decrement VIRTCHILDCNT in SECS**
+# EDECVIRTCHILD
+
+**Decrement VIRTCHILDCNT in SECS**
 
 | Opcode/Instruction             | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                |
 | ------------------------------ | ----- | ---------------------- | ------------------ | ---------------------------------------------------------- |

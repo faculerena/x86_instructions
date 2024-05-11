@@ -1,4 +1,6 @@
-# RDFSBASE/RDGSBASE**Read FS**
+# RDFSBASE/RDGSBASE
+
+**Read FS**
 
 | Opcode/Instruction             | Op/En | 64/32-bit Mode | CPUID Feature Flag | Description                                                    |
 | ------------------------------ | ----- | -------------- | ------------------ | -------------------------------------------------------------- |

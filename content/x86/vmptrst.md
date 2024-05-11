@@ -1,4 +1,6 @@
-# VMPTRST**Store Pointer to Virtual**
+# VMPTRST
+
+**Store Pointer to Virtual**
 
 | Opcode/Instruction      | Op/En | Description                                  |
 | ----------------------- | ----- | -------------------------------------------- |

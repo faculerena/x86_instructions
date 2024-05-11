@@ -1,4 +1,6 @@
-# FNOP**No Operation**
+# FNOP
+
+**No Operation**
 
 | Opcode |     | Mode | Leg Mode | Description                |
 | ------ | --- | ---- | -------- | -------------------------- |

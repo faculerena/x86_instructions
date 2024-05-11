@@ -1,4 +1,6 @@
-# FICOM/FICOMP**Compare Integer**
+# FICOM/FICOMP
+
+**Compare Integer**
 
 | Opcode | Instruction   | 64-Bit Mode | Compat/Leg Mode | Description                                       |
 | ------ | ------------- | ----------- | --------------- | ------------------------------------------------- |

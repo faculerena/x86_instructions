@@ -1,4 +1,6 @@
-# EEXIT**Exits an Enclave**
+# EEXIT
+
+**Exits an Enclave**
 
 | **Opcode/Op/En 64/32 CPUID Description Instruction bit Mode Feature Support Flag** EAX = 04H IR V/V SGX1 This leaf function is used to exit an enclave. ENCLU[EEXIT] |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

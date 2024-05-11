@@ -1,4 +1,6 @@
-# FINIT/FNINIT**Initialize Floating**
+# FINIT/FNINIT
+
+**Initialize Floating**
 
 | Opcode   | Instruction | 64-Bit Mode | Compat/Leg Mode | Description                                                                     |
 | -------- | ----------- | ----------- | --------------- | ------------------------------------------------------------------------------- |

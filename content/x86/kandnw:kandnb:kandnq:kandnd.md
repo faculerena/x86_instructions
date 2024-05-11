@@ -1,4 +1,6 @@
-# KANDNW/KANDNB/KANDNQ/KANDND**Bitwise Logical AND NOT Masks**
+# KANDNW/KANDNB/KANDNQ/KANDND
+
+**Bitwise Logical AND NOT Masks**
 
 | Opcode/Instruction                      | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                     |
 | --------------------------------------- | ----- | ---------------------- | ------------------ | --------------------------------------------------------------- |

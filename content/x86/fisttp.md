@@ -1,4 +1,6 @@
-# FISTTP**Store Integer With Truncation**
+# FISTTP
+
+**Store Integer With Truncation**
 
 | Opcode | Instruction   | 64-Bit Mode | Compat/Leg Mode | Description                            |
 | ------ | ------------- | ----------- | --------------- | -------------------------------------- |

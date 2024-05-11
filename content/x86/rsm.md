@@ -1,4 +1,6 @@
-# RSM**Resume From System Management Mode**
+# RSM
+
+**Resume From System Management Mode**
 
 | Opcode\* | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                              |
 | -------- | ----------- | ----- | ----------- | --------------- | ---------------------------------------- |

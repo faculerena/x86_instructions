@@ -1,4 +1,6 @@
-# XGETBV**Get Value of Extended Control Register**
+# XGETBV
+
+**Get Value of Extended Control Register**
 
 | Opcode      | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                 |
 | ----------- | ----------- | ----- | ----------- | --------------- | ------------------------------------------- |

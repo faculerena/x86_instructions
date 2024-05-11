@@ -1,4 +1,6 @@
-# PUNPCKLBW/PUNPCKLWD/PUNPCKLDQ/PUNPCKLQDQ**Unpack Low Data**
+# PUNPCKLBW/PUNPCKLWD/PUNPCKLDQ/PUNPCKLQDQ
+
+**Unpack Low Data**
 
 | Opcode/Instruction                                                        | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                   |
 | ------------------------------------------------------------------------- | ----- | ---------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------- |

@@ -1,4 +1,6 @@
-# RORX**Rotate Right Logical Without Affecting Flags**
+# RORX
+
+**Rotate Right Logical Without Affecting Flags**
 
 | Opcode/Instruction                               | Op/En | 64/32-bit Mode | CPUID Feature Flag | Description                                                              |
 | ------------------------------------------------ | ----- | -------------- | ------------------ | ------------------------------------------------------------------------ |

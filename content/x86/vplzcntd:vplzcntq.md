@@ -1,4 +1,6 @@
-# VPLZCNTD/VPLZCNTQ**Count the Number of Leading Zero Bits for Packed Dword**
+# VPLZCNTD/VPLZCNTQ
+
+**Count the Number of Leading Zero Bits for Packed Dword**
 
 | Opcode/Instruction                                                 | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                          |
 | ------------------------------------------------------------------ | ----- | ---------------------- | ------------------ | ---------------------------------------------------------------------------------------------------- |

@@ -1,4 +1,6 @@
-# OUTS/OUTSB/OUTSW/OUTSD**Output String to Port**
+# OUTS/OUTSB/OUTSW/OUTSD
+
+**Output String to Port**
 
 **Opcode1**
 

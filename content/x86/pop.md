@@ -1,4 +1,6 @@
-# POP**Pop a Value From the Stack**
+# POP
+
+**Pop a Value From the Stack**
 
 | Opcode | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                                                            |
 | ------ | ----------- | ----- | ----------- | --------------- | -------------------------------------------------------------------------------------- |

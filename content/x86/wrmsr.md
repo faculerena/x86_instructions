@@ -1,4 +1,6 @@
-# WRMSR**Write to Model Specific Register**
+# WRMSR
+
+**Write to Model Specific Register**
 
 | Opcode | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                         |
 | ------ | ----------- | ----- | ----------- | --------------- | --------------------------------------------------- |

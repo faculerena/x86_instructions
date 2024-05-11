@@ -1,4 +1,6 @@
-# MUL**Unsigned Multiply**
+# MUL
+
+**Unsigned Multiply**
 
 | Opcode        | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                 |
 | ------------- | ----------- | ----- | ----------- | --------------- | ------------------------------------------- |

@@ -1,4 +1,6 @@
-# LOOP/LOOPcc**Loop According to ECX Counter**
+# LOOP/LOOPcc
+
+**Loop According to ECX Counter**
 
 | Opcode | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                          |
 | ------ | ----------- | ----- | ----------- | --------------- | ---------------------------------------------------- |

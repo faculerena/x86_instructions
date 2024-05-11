@@ -1,4 +1,6 @@
-# SCAS/SCASB/SCASW/SCASD**Scan String**
+# SCAS/SCASB/SCASW/SCASD
+
+**Scan String**
 
 | Opcode     | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                                            |
 | ---------- | ----------- | ----- | ----------- | --------------- | ---------------------------------------------------------------------- |

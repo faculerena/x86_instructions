@@ -1,4 +1,6 @@
-# VPGATHERDD/VPGATHERQD**Gather Packed Dword Values Using Signed Dword**
+# VPGATHERDD/VPGATHERQD
+
+**Gather Packed Dword Values Using Signed Dword**
 
 | Opcode/Instruction                                    | Op/En | 64/32 -bit Mode | CPUID Feature Flag | Description                                                                                                                                                          |
 | ----------------------------------------------------- | ----- | --------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

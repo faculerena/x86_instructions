@@ -1,4 +1,6 @@
-# FINCSTP**Increment Stack**
+# FINCSTP
+
+**Increment Stack**
 
 | Opcode |     | Mode | Leg Mode | Description                                         |
 | ------ | --- | ---- | -------- | --------------------------------------------------- |

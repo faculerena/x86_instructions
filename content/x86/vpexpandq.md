@@ -1,4 +1,6 @@
-# VPEXPANDQ**Load Sparse Packed Quadword Integer Values From Dense Memory**
+# VPEXPANDQ
+
+**Load Sparse Packed Quadword Integer Values From Dense Memory**
 
 | Opcode/Instruction                                          | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                       |
 | ----------------------------------------------------------- | ----- | ---------------------- | ------------------ | --------------------------------------------------------------------------------- |

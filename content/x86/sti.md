@@ -1,4 +1,6 @@
-# STI**Set Interrupt Flag**
+# STI
+
+**Set Interrupt Flag**
 
 | Opcode | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                                                                   |
 | ------ | ----------- | ----- | ----------- | --------------- | --------------------------------------------------------------------------------------------- |

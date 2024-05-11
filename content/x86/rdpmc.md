@@ -1,4 +1,6 @@
-# RDPMC**Read Performance**
+# RDPMC
+
+**Read Performance**
 
 | Opcode\* | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                                        |
 | -------- | ----------- | ----- | ----------- | --------------- | ------------------------------------------------------------------ |

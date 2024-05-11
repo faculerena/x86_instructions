@@ -1,4 +1,6 @@
-# REP/REPE/REPZ/REPNE/REPNZ**Repeat String Operation Prefix**
+# REP/REPE/REPZ/REPNE/REPNZ
+
+**Repeat String Operation Prefix**
 
 | Opcode      | Instruction         | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                                |
 | ----------- | ------------------- | ----- | ----------- | --------------- | ---------------------------------------------------------- |

@@ -1,4 +1,6 @@
-# PSUBUSB/PSUBUSW**Subtract Packed Unsigned Integers With Unsigned Saturation**
+# PSUBUSB/PSUBUSW
+
+**Subtract Packed Unsigned Integers With Unsigned Saturation**
 
 | Opcode/Instruction                                              | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                                                               |
 | --------------------------------------------------------------- | ----- | ---------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |

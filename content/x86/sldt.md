@@ -1,4 +1,6 @@
-# SLDT**Store Local Descriptor Table Register**
+# SLDT
+
+**Store Local Descriptor Table Register**
 
 | Opcode\* | Instruction  | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                   |
 | -------- | ------------ | ----- | ----------- | --------------- | --------------------------------------------- |

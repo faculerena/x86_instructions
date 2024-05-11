@@ -1,4 +1,6 @@
-# FPREM**Partial Remainder**
+# FPREM
+
+**Partial Remainder**
 
 | Opcode | Instruction | 64-Bit Mode | Compat/Leg Mode | Description                                                             |
 | ------ | ----------- | ----------- | --------------- | ----------------------------------------------------------------------- |

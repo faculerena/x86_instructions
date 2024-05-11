@@ -1,4 +1,6 @@
-# VGETEXPPD**Convert Exponents of Packed Double Precision Floating**
+# VGETEXPPD
+
+**Convert Exponents of Packed Double Precision Floating**
 
 | Opcode/Instruction                                                       | Op/En | 64/32 Bit Mode Support | CPUID Feature Flag | Description                                                                                                                                                                                                                                  |
 | ------------------------------------------------------------------------ | ----- | ---------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,4 +1,6 @@
-# LODS/LODSB/LODSW/LODSD/LODSQ**Load String**
+# LODS/LODSB/LODSW/LODSD/LODSQ
+
+**Load String**
 
 | Opcode     | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                                                                                     |
 | ---------- | ----------- | ----- | ----------- | --------------- | --------------------------------------------------------------------------------------------------------------- |

@@ -1,4 +1,6 @@
-# UD**Undefined Instruction**
+# UD
+
+**Undefined Instruction**
 
 | Opcode   | Instruction     | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                     |
 | -------- | --------------- | ----- | ----------- | --------------- | ------------------------------- |

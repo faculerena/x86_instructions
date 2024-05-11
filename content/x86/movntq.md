@@ -1,4 +1,6 @@
-# MOVNTQ**Store of Quadword Using Non**
+# MOVNTQ
+
+**Store of Quadword Using Non**
 
 | Opcode      | Instruction    | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                           |
 | ----------- | -------------- | ----- | ----------- | --------------- | ----------------------------------------------------- |

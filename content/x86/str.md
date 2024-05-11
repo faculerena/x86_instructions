@@ -1,4 +1,6 @@
-# STR**Store Task Register**
+# STR
+
+**Store Task Register**
 
 | Opcode   | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                               |
 | -------- | ----------- | ----- | ----------- | --------------- | ----------------------------------------- |

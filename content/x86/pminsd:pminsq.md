@@ -1,4 +1,6 @@
-# PMINSD/PMINSQ**Minimum of Packed Signed Integers**
+# PMINSD/PMINSQ
+
+**Minimum of Packed Signed Integers**
 
 | Opcode/Instruction                                                      | Op/E n | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                                    |
 | ----------------------------------------------------------------------- | ------ | ---------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------ |

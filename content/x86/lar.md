@@ -1,4 +1,6 @@
-# LAR**Load Access Rights Byte**
+# LAR
+
+**Load Access Rights Byte**
 
 | Opcode   | Instruction       | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                |
 | -------- | ----------------- | ----- | ----------- | --------------- | ------------------------------------------ |

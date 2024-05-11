@@ -1,4 +1,6 @@
-# VMFUNC**Invoke VM function**
+# VMFUNC
+
+**Invoke VM function**
 
 | Opcode/Instruction | Op/En | Description                          |
 | ------------------ | ----- | ------------------------------------ |

@@ -1,4 +1,6 @@
-# PMULLW**Multiply Packed Signed Integers and Store Low Result**
+# PMULLW
+
+**Multiply Packed Signed Integers and Store Low Result**
 
 | Opcode/Instruction                                             | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                                          |
 | -------------------------------------------------------------- | ----- | ---------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |

@@ -1,4 +1,6 @@
-# PDEP**Parallel Bits Deposit**
+# PDEP
+
+**Parallel Bits Deposit**
 
 | Opcode/Instruction                             | Op/En | 64/32-bit Mode | CPUID Feature Flag | Description                                                                        |
 | ---------------------------------------------- | ----- | -------------- | ------------------ | ---------------------------------------------------------------------------------- |

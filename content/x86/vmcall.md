@@ -1,4 +1,6 @@
-# VMCALL**Call to VM Monitor**
+# VMCALL
+
+**Call to VM Monitor**
 
 | Opcode/Instruction | Op/En | Description                            |
 | ------------------ | ----- | -------------------------------------- |

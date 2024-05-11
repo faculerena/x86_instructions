@@ -1,4 +1,6 @@
-# PTWRITE**Write Data to a Processor Trace Packet**
+# PTWRITE
+
+**Write Data to a Processor Trace Packet**
 
 | Opcode/Instruction                | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                          |
 | --------------------------------- | ----- | ---------------------- | ------------------ | ---------------------------------------------------------------------------------------------------- |

@@ -1,4 +1,6 @@
-# ENTER**Make Stack Frame for Procedure Parameters**
+# ENTER
+
+**Make Stack Frame for Procedure Parameters**
 
 | Opcode   | Instruction       | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                                 |
 | -------- | ----------------- | ----- | ----------- | --------------- | ----------------------------------------------------------- |

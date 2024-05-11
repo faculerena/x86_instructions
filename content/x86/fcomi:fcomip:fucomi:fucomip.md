@@ -1,4 +1,6 @@
-# FCOMI/FCOMIP/FUCOMI/FUCOMIP**Compare Floating**
+# FCOMI/FCOMIP/FUCOMI/FUCOMIP
+
+**Compare Floating**
 
 | Opcode  | Instruction       | 64-Bit Mode | Compat/Leg Mode | Description                                                                                               |
 | ------- | ----------------- | ----------- | --------------- | --------------------------------------------------------------------------------------------------------- |

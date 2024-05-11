@@ -1,4 +1,6 @@
-# OR**Logical Inclusive OR**
+# OR
+
+**Logical Inclusive OR**
 
 | Opcode           | Instruction     | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                     |
 | ---------------- | --------------- | ----- | ----------- | --------------- | ------------------------------- |

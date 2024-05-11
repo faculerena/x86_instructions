@@ -1,4 +1,6 @@
-# LEAVE**High Level Procedure Exit**
+# LEAVE
+
+**High Level Procedure Exit**
 
 | Opcode | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                   |
 | ------ | ----------- | ----- | ----------- | --------------- | ----------------------------- |

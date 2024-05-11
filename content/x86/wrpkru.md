@@ -1,4 +1,6 @@
-# WRPKRU**Write Data to User Page Key Register**
+# WRPKRU
+
+**Write Data to User Page Key Register**
 
 | Opcode/Instruction | Op/En | 64/32bit Mode Support | CPUID Feature Flag | Description           |
 | ------------------ | ----- | --------------------- | ------------------ | --------------------- |

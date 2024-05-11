@@ -1,4 +1,6 @@
-# INVLPG**Invalidate TLB Entries**
+# INVLPG
+
+**Invalidate TLB Entries**
 
 **Opcode1**
 

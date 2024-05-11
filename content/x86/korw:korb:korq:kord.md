@@ -1,4 +1,6 @@
-# KORW/KORB/KORQ/KORD**Bitwise Logical OR Masks**
+# KORW/KORB/KORQ/KORD
+
+**Bitwise Logical OR Masks**
 
 | Opcode/Instruction                    | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                |
 | ------------------------------------- | ----- | ---------------------- | ------------------ | ---------------------------------------------------------- |

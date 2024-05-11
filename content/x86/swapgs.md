@@ -1,4 +1,6 @@
-# SWAPGS**Swap GS Base Register**
+# SWAPGS
+
+**Swap GS Base Register**
 
 | Opcode   | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                                                                     |
 | -------- | ----------- | ----- | ----------- | --------------- | ----------------------------------------------------------------------------------------------- |

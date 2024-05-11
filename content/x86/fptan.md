@@ -1,4 +1,6 @@
-# FPTAN**Partial Tangent**
+# FPTAN
+
+**Partial Tangent**
 
 | Opcode | Instruction | 64-Bit Mode | Compat/Leg Mode | Description                                                               |
 | ------ | ----------- | ----------- | --------------- | ------------------------------------------------------------------------- |

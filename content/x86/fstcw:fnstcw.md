@@ -1,4 +1,6 @@
-# FSTCW/FNSTCW**Store x**
+# FSTCW/FNSTCW
+
+**Store x**
 
 | Opcode   | Instruction    | 64-Bit Mode | Compat/Leg Mode | Description                                                                                       |
 | -------- | -------------- | ----------- | --------------- | ------------------------------------------------------------------------------------------------- |

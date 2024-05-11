@@ -1,4 +1,6 @@
-# VMCLEAR**Clear Virtual**
+# VMCLEAR
+
+**Clear Virtual**
 
 | Opcode/Instruction      | Op/En | Description                              |
 | ----------------------- | ----- | ---------------------------------------- |

@@ -1,4 +1,6 @@
-# SUBPS**Subtract Packed Single Precision Floating**
+# SUBPS
+
+**Subtract Packed Single Precision Floating**
 
 | Opcode/Instruction                                                    | Op/E n | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                                        |
 | --------------------------------------------------------------------- | ------ | ---------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |

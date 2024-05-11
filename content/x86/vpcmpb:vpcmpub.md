@@ -1,4 +1,6 @@
-# VPCMPB/VPCMPUB**Compare Packed Byte Values Into Mask**
+# VPCMPB/VPCMPUB
+
+**Compare Packed Byte Values Into Mask**
 
 | Opcode/Instruction                                                  | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                                                                            |
 | ------------------------------------------------------------------- | ----- | ---------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

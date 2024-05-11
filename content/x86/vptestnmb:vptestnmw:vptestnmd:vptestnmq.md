@@ -1,4 +1,6 @@
-# VPTESTNMB/VPTESTNMW/VPTESTNMD/VPTESTNMQ**Logical NAND and Set**
+# VPTESTNMB/VPTESTNMW/VPTESTNMD/VPTESTNMQ
+
+**Logical NAND and Set**
 
 | Opcode/Instruction                                                   | Op/En | 64/32 bit Mode Support | CPUID             | Description                                                                                                                                                                     |
 | -------------------------------------------------------------------- | ----- | ---------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

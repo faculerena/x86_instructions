@@ -1,4 +1,6 @@
-# VMXOFF**Leave VMX Operation**
+# VMXOFF
+
+**Leave VMX Operation**
 
 | Opcode/Instruction | Op/En | Description           |
 | ------------------ | ----- | --------------------- |

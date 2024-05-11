@@ -1,4 +1,6 @@
-# VSCATTERDPS/VSCATTERDPD/VSCATTERQPS/VSCATTERQPD**Scatter Packed Single**
+# VSCATTERDPS/VSCATTERDPD/VSCATTERQPS/VSCATTERQPD
+
+**Scatter Packed Single**
 
 | Opcode/Instruction                                        | Op/E n | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                              |
 | --------------------------------------------------------- | ------ | ---------------------- | ------------------ | -------------------------------------------------------------------------------------------------------- |

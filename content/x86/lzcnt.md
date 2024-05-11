@@ -1,4 +1,6 @@
-# LZCNT**Count the Number of Leading Zero Bits**
+# LZCNT
+
+**Count the Number of Leading Zero Bits**
 
 | Opcode/Instruction                 | Op/En | 64/32-bit Mode | CPUID Feature Flag | Description                                                           |
 | ---------------------------------- | ----- | -------------- | ------------------ | --------------------------------------------------------------------- |

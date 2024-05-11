@@ -1,4 +1,6 @@
-# FDIVR/FDIVRP/FIDIVR**Reverse Divide**
+# FDIVR/FDIVRP/FIDIVR
+
+**Reverse Divide**
 
 | Opcode  | Instruction         | 64-Bit Mode | Compat/Leg Mode | Description                                                               |
 | ------- | ------------------- | ----------- | --------------- | ------------------------------------------------------------------------- |

@@ -1,4 +1,6 @@
-# FCOS**Cosine**
+# FCOS
+
+**Cosine**
 
 | Opcode |     | Mode | Leg Mode | Description                                |
 | ------ | --- | ---- | -------- | ------------------------------------------ |

@@ -1,4 +1,6 @@
-# KXORW/KXORB/KXORQ/KXORD**Bitwise Logical XOR Masks**
+# KXORW/KXORB/KXORQ/KXORD
+
+**Bitwise Logical XOR Masks**
 
 | Opcode/Instruction                     | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                |
 | -------------------------------------- | ----- | ---------------------- | ------------------ | ---------------------------------------------------------- |

@@ -1,4 +1,6 @@
-# SAL/SAR/SHL/SHR**Shift**
+# SAL/SAR/SHL/SHR
+
+**Shift**
 
 **Opcode1**
 

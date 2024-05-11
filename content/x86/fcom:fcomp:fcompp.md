@@ -1,4 +1,6 @@
-# FCOM/FCOMP/FCOMPP**Compare Floating**
+# FCOM/FCOMP/FCOMPP
+
+**Compare Floating**
 
 | Opcode  | Instruction | 64-Bit Mode | Compat/Leg Mode | Description                                            |
 | ------- | ----------- | ----------- | --------------- | ------------------------------------------------------ |

@@ -1,4 +1,6 @@
-# WBINVD**Write Back and Invalidate Cache**
+# WBINVD
+
+**Write Back and Invalidate Cache**
 
 | Opcode | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                                                                  |
 | ------ | ----------- | ----- | ----------- | --------------- | -------------------------------------------------------------------------------------------- |

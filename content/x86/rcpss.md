@@ -1,4 +1,6 @@
-# RCPSS**Compute Reciprocal of Scalar Single Precision Floating**
+# RCPSS
+
+**Compute Reciprocal of Scalar Single Precision Floating**
 
 | Opcode\*/Instruction                                | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                                                                                                                                                |
 | --------------------------------------------------- | ----- | ---------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

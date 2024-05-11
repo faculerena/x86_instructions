@@ -1,4 +1,6 @@
-# STOS/STOSB/STOSW/STOSD/STOSQ**Store String**
+# STOS/STOSB/STOSW/STOSD/STOSQ
+
+**Store String**
 
 | Opcode     | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                                                                      |
 | ---------- | ----------- | ----- | ----------- | --------------- | ------------------------------------------------------------------------------------------------ |

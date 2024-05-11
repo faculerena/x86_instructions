@@ -1,4 +1,6 @@
-# VGATHERDPS/VGATHERDPD**Gather Packed Single**
+# VGATHERDPS/VGATHERDPD
+
+**Gather Packed Single**
 
 | Opcode/Instruction                                       | Op/En | 64/32 Bit Mode Support | CPUID Feature Flag | Description                                                                                                        |
 | -------------------------------------------------------- | ----- | ---------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------ |

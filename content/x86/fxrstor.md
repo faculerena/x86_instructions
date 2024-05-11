@@ -1,4 +1,6 @@
-# FXRSTOR**Restore x**
+# FXRSTOR
+
+**Restore x**
 
 | Opcode/Instruction                     | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                                            |
 | -------------------------------------- | ----- | ----------- | --------------- | ---------------------------------------------------------------------- |

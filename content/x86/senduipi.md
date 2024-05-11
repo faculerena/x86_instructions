@@ -1,4 +1,6 @@
-# SENDUIPI**Send User Interprocessor Interrupt**
+# SENDUIPI
+
+**Send User Interprocessor Interrupt**
 
 | Opcode/Instruction       | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                         |
 | ------------------------ | ----- | ---------------------- | ------------------ | ----------------------------------- |

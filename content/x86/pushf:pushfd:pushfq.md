@@ -1,4 +1,6 @@
-# PUSHF/PUSHFD/PUSHFQ**Push EFLAGS Register Onto the Stack**
+# PUSHF/PUSHFD/PUSHFQ
+
+**Push EFLAGS Register Onto the Stack**
 
 | Opcode | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                   |
 | ------ | ----------- | ----- | ----------- | --------------- | ----------------------------- |

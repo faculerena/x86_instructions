@@ -1,4 +1,6 @@
-# WAIT/FWAIT**Wait**
+# WAIT/FWAIT
+
+**Wait**
 
 | Opcode | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                       |
 | ------ | ----------- | ----- | ----------- | --------------- | ------------------------------------------------- |

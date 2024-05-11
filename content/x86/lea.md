@@ -1,4 +1,6 @@
-# LEA**Load Effective Address**
+# LEA
+
+**Load Effective Address**
 
 | Opcode        | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                    |
 | ------------- | ----------- | ----- | ----------- | --------------- | ---------------------------------------------- |

@@ -1,4 +1,6 @@
-# PMULHRSW**Packed Multiply High With Round and Scale**
+# PMULHRSW
+
+**Packed Multiply High With Round and Scale**
 
 | Opcode/Instruction                                                 | Op/En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                     |
 | ------------------------------------------------------------------ | ----- | ---------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------- |

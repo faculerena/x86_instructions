@@ -1,4 +1,6 @@
-# FABS**Absolute Value**
+# FABS
+
+**Absolute Value**
 
 | Opcode |     | Mode | Leg Mode | Description                         |
 | ------ | --- | ---- | -------- | ----------------------------------- |

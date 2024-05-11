@@ -1,4 +1,6 @@
-# XSETBV**Set Extended Control Register**
+# XSETBV
+
+**Set Extended Control Register**
 
 | Opcode      | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                             |
 | ----------- | ----------- | ----- | ----------- | --------------- | ------------------------------------------------------- |

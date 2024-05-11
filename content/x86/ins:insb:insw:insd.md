@@ -1,4 +1,6 @@
-# INS/INSB/INSW/INSD**Input from Port to String**
+# INS/INSB/INSW/INSD
+
+**Input from Port to String**
 
 | Opcode | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                                                                        |
 | ------ | ----------- | ----- | ----------- | --------------- | -------------------------------------------------------------------------------------------------- |

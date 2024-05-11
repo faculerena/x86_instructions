@@ -1,4 +1,6 @@
-# FPATAN**Partial Arctangent**
+# FPATAN
+
+**Partial Arctangent**
 
 **Opcode1**
 

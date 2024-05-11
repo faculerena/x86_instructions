@@ -1,4 +1,6 @@
-# LLDT**Load Local Descriptor Table Register**
+# LLDT
+
+**Load Local Descriptor Table Register**
 
 | Opcode   | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                            |
 | -------- | ----------- | ----- | ----------- | --------------- | -------------------------------------- |

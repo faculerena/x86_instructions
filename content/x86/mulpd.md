@@ -1,4 +1,6 @@
-# MULPD**Multiply Packed Double Precision Floating**
+# MULPD
+
+**Multiply Packed Double Precision Floating**
 
 | Opcode/Instruction                                                       | Op / En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                     |
 | ------------------------------------------------------------------------ | ------- | ---------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------- |

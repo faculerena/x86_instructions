@@ -1,4 +1,6 @@
-# PAUSE**Spin Loop Hint**
+# PAUSE
+
+**Spin Loop Hint**
 
 | Opcode | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                                           |
 | ------ | ----------- | ----- | ----------- | --------------- | --------------------------------------------------------------------- |

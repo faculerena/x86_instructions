@@ -1,4 +1,6 @@
-# PCMPEQB/PCMPEQW/PCMPEQD**Compare Packed Data for Equal**
+# PCMPEQB/PCMPEQW/PCMPEQD
+
+**Compare Packed Data for Equal**
 
 | Opcode/Instruction                                                | Op/ En | 64/32 bit Mode Support | CPUID Feature Flag | Description                                                                                                                                                                           |
 | ----------------------------------------------------------------- | ------ | ---------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

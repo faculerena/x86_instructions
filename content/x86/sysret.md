@@ -1,4 +1,6 @@
-# SYSRET**Return From Fast System Call**
+# SYSRET
+
+**Return From Fast System Call**
 
 | Opcode        | Instruction | Op/En | 64-Bit Mode | Compat/Leg Mode | Description                                         |
 | ------------- | ----------- | ----- | ----------- | --------------- | --------------------------------------------------- |

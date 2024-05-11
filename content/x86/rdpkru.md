@@ -1,4 +1,6 @@
-# RDPKRU**Read Protection Key Rights for User Pages**
+# RDPKRU
+
+**Read Protection Key Rights for User Pages**
 
 | Opcode\*    | Instruction | Op/En | 64/32bit Mode Support | CPUID Feature Flag | Description          |
 | ----------- | ----------- | ----- | --------------------- | ------------------ | -------------------- |
